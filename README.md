@@ -71,8 +71,7 @@ n8n
 
 A landing page foi desenvolvida para apresentar os serviços da barbearia e direcionar os clientes para o atendimento via WhatsApp.
 
-![Landing Page](landing page 1.png)
-
+![Landing Page](screenshots/landing%20page%201.png)
 ---
 
 ## Atendimento Inteligente
