@@ -71,7 +71,7 @@ n8n
 
 A landing page foi desenvolvida para apresentar os serviços da barbearia e direcionar os clientes para o atendimento via WhatsApp.
 
-![Landing Page](screenshots/landing%20page%201.png)
+![Landing Page](screenshots/WhatsApp Image 2026-08-03 at 18.09.42.jpeg)
 ---
 
 ## Atendimento Inteligente
@@ -80,13 +80,13 @@ O chatbot interpreta mensagens do cliente utilizando inteligência artificial e 
 
 ### Agendamento
 
-![Agendamento](screenshots/booking.png)
+![Agendamento](screenshots/WhatsApp Image 2026-08-03 at 18.09.43 (1).jpeg)
 
 ---
 
 ### Cancelamento
 
-![Cancelamento](screenshots/cancellation.png)
+![Cancelamento](screenshots/WhatsApp Image 2026-08-03 at 18.09.43 (2).jpeg)
 
 ---
 
@@ -94,7 +94,7 @@ O chatbot interpreta mensagens do cliente utilizando inteligência artificial e 
 
 O sistema realiza a transcrição automática das mensagens de voz antes de processar a intenção do usuário.
 
-![Áudio](screenshots/audio.png)
+![Áudio](screenshots/WhatsApp Image 2026-08-03 at 18.09.43 (2).jpeg)
 
 ---
 
@@ -115,7 +115,7 @@ Entre as principais responsabilidades estão:
 - Memória de contexto.
 - Integração com IA.
 
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/206f17b6-cd4d-466a-8b7b-6afc1ab2ea50.png)
 
 ---
 
