@@ -80,22 +80,23 @@ O chatbot interpreta mensagens do cliente utilizando inteligência artificial e 
 
 ### Agendamento
 
-![Agendamento](screenshots/WhatsApp Image 2026-08-03 at 18.09.43 (1).jpeg)
+![Agendamento](screenshots/booking.png)
 
 ---
 
 ### Cancelamento
 
-![Cancelamento](screenshots/WhatsApp Image 2026-08-03 at 18.09.43 (2).jpeg)
+![Cancelamento](screenshots/cancellation.png)
 
 ---
 
-### Interpretação de Áudios
+### 🔔 Lembrete Automático de Agendamento
 
-O sistema realiza a transcrição automática das mensagens de voz antes de processar a intenção do usuário.
+O sistema envia automaticamente uma mensagem no WhatsApp para lembrar o cliente sobre o horário agendado, reduzindo faltas e melhorando a organização da agenda da barbearia.
 
-![Áudio](screenshots/WhatsApp Image 2026-08-03 at 18.09.43 (2).jpeg)
+![Lembrete Automático](screenshots/reminder.png)
 
+---
 ---
 
 ## Workflow Principal
@@ -115,7 +116,7 @@ Entre as principais responsabilidades estão:
 - Memória de contexto.
 - Integração com IA.
 
-![Workflow](screenshots/206f17b6-cd4d-466a-8b7b-6afc1ab2ea50.png)
+![Workflow](screenshots/workflow.png)
 
 ---
 
